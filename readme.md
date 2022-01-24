@@ -3,7 +3,7 @@
 ### a football prediction engine named after famed paul the octopus.
 
 what does this paul predict?
-paul predicts 7 spot betting markets of fixtures in europe's top ten leagues.
+paul predicts 7 spot betting markets of fixtures in 7 leagues.
 
 1. 1-X-2
 2. 1X-12-X2
@@ -155,6 +155,9 @@ for any fixture between team AFC v BFC:
 - average goals-conceded-per-season
 - pre-match standings
 
+how do you store the data?
+
+
 
 europe's top ten leagues
 - epl
@@ -163,7 +166,4 @@ europe's top ten leagues
 - seria a
 - eredevise
 - bundesliga
-- scottish premiership
 - primeira liga portugal
-- greece super league
-- austria bundesliga
